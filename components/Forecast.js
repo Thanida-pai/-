@@ -24,8 +24,6 @@ const styles = StyleSheet.create({
         width: '100%',
         opacity: 0.5,
         alignItems: 'center',
-        padding: 0.5
-
     },
     small: {
          color: 'white',
@@ -35,6 +33,6 @@ const styles = StyleSheet.create({
     zip: {
         color: 'white',
         fontSize: 35,
+        padding: 10
     },
-     
-    });
+});

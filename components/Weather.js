@@ -31,7 +31,6 @@ const styles = StyleSheet.create({
         opacity: 0.5,
         alignItems: 'center',
         padding: 50
-
     },
     zip: {
         color: 'white',
@@ -41,7 +40,6 @@ const styles = StyleSheet.create({
          color: 'white',
          fontSize: 15,
          marginBottom: 20,
-   
         }
 });
 
