@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         padding: 50
     },
-    zip: {
+    big: {
         color: 'white',
         fontSize: 35,
     },
